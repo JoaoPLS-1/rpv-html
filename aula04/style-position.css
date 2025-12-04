@@ -38,6 +38,6 @@ main {
 #box4{
     position: absolute;
     background-color: pink;
-    bottom: 0;
-    left: 0;
+    bottom: calc(50% - 25px);
+    left: calc(50% - 25px) ;
 }
